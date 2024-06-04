@@ -30,4 +30,9 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+ 
+}
+.text-color {
+    color: blue;
+    background-color: wheat;
 }

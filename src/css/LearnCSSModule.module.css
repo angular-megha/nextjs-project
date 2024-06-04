@@ -1,0 +1,16 @@
+.my_container {
+    position: absolute;
+    width: 300px;
+    border: 1px solid gray;
+    padding: 5px;
+    background-color: red;
+}
+
+.bg_image{
+    position: relative;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 50%;
+}
