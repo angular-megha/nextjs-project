@@ -14,6 +14,7 @@ const UseVideoModule = () => {
         kind="subtitles"
         srcLang="en"
         label="English"
+        
       />
         Your browser does not support the video tag.
     </video>
